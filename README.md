@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Skills:</h3>
-<p>React Js, Javascript,Tailwind CSS, HTML5, CSS, PYTHON  </p>
+<p>Next Js, React Js, Javascript, typeScript, Tailwind CSS, HTML5, CSS, PYTHON  </p>
 
