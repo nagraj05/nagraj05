@@ -24,7 +24,4 @@
 -  🎥 **[Cinewars](https://github.com/nagraj05/themoviesapp)** - Browse and get info about Movies, TV Shows & Celebrities.
 -  🚗 **[Rayagada Rentals](https://github.com/nagraj05/car-rental)** - UI of a Car Rental Web App.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/nagraj05)
 
