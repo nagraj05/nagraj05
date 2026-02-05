@@ -17,7 +17,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## Current Projects
+## Projects
 
 - 💻 **[iGravity](https://github.com/nagraj05/gravity)** - A Social Media Web with No likes and Finite Feed.
 - 📕 **[Fictioners](https://github.com/nagraj05/ebooks-website)** - You can download Ebooks and browse Authors.
