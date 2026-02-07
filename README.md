@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nagraj</h1>
+<h1 align="left">Hey! 👋, I'm Nagraj</h1>
 
 
 - 🌱 I’m currently exploring **Backend topics**
