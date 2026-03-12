@@ -20,7 +20,7 @@
 ## Projects
 
 - 💻 **[iGravity](https://github.com/nagraj05/gravity)** - A Social Media Web with No likes and Finite Feed.
-- 💰 **[track my subscriptions](https://github.com/nagraj05/trackmysubscriptions)** - A web to track all your online subscriptions.
+- 💰 **[Track my Subscriptions](https://github.com/nagraj05/trackmysubscriptions)** - A web to track all your online subscriptions.
 - 😎 **[Portfolio](https://tadingi.vercel.app/)** - Personal Portfolio.
 - 📕 **[Fictioners](https://github.com/nagraj05/ebooks-website)** - You can download Ebooks and browse Authors.
 -  🎥 **[Cinewars](https://github.com/nagraj05/themoviesapp)** - Browse and get info about Movies, TV Shows & Celebrities.
