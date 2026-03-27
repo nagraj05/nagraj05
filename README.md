@@ -23,9 +23,10 @@
 - 🔗 **[ScaleInfra](https://github.com/nagraj05/scaleinfra.git)** - The Ultimate System Design Simulator.
 - 💰 **[Track my Subscriptions](https://github.com/nagraj05/trackmysubscriptions)** - A web to track all your online subscriptions.
 - 😎 **[Portfolio](https://tadingi.vercel.app/)** - Personal Portfolio.
+- 🎨 **[Shadcn Registry](https://github.com/nagraj05/shadcn-registry)** - A Collection of Third-party UI Components on the top of Shadcn Library.
 - 📕 **[Fictioners](https://github.com/nagraj05/ebooks-website)** - You can download Ebooks and browse Authors.
--  🎥 **[Cinewars](https://github.com/nagraj05/themoviesapp)** - Browse and get info about Movies, TV Shows & Celebrities.
--  🚗 **[Rayagada Rentals](https://github.com/nagraj05/car-rental)** - UI of a Car Rental Web App.
--  ✒️ **[Bronte](https://github.com/nagraj05/poetry)** - A Collection of Poems.
+- 🎥 **[Cinewars](https://github.com/nagraj05/themoviesapp)** - Browse and get info about Movies, TV Shows & Celebrities.
+- 🚗 **[Rayagada Rentals](https://github.com/nagraj05/car-rental)** - UI of a Car Rental Web App.
+- ✒️ **[Bronte](https://github.com/nagraj05/poetry)** - A Collection of Poems.
 
 
