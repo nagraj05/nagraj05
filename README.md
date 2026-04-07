@@ -1,7 +1,7 @@
 <h1 align="left">Hey! 👋, I'm Nagraj</h1>
 
 
-- 🌱 I’m currently exploring **Backend topics**
+- 🌱 I’m currently exploring **System Design Patterns**
 - 🧠 I'm open to collaborating on interesting projects as a developer.
 
 ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
