@@ -31,5 +31,6 @@
 - ✒️ **[Bronte](https://github.com/nagraj05/poetry)** - A Collection of Poems.
 - 🪐 **[Neurogest](https://github.com/nagraj05/neurogest)** - Gesture-controlled web app. Draw in mid-air and explore the solar system using only your hands and a webcam.
 - 🤖 **[Deskbots](https://github.com/nagraj05/deskbots)** - Tiny animated creatures that live on your taskbar. Hover to freeze, click to launch your AI apps.
+- 📚 **[OTSI Librarian](https://github.com/nagraj05/otsi-librarian)** - A webapp to track borrowed books in my office.
 
 
