@@ -44,14 +44,6 @@
 - 🤖 **[Deskbots](https://github.com/nagraj05/deskbots)** - Tiny animated creatures that live on your taskbar. Hover to freeze, click to launch your AI apps.
 - 📚 **[OTSI Librarian](https://github.com/nagraj05/otsi-librarian)** - A webapp to track borrowed books in my office.
 
-## 📊 GitHub Stats
- 
-<div align="left">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagraj05&layout=donut-vertical&hide_border=true&theme=default)
- 
-</div>
-
 ## 📫 Get in Touch
 
 I'm always up for interesting projects and conversations.
