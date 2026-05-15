@@ -2,7 +2,7 @@
 
 # Hey, I'm Nagraj 👋
 
-**Full Stack Developer** · React & Next.js · Nodejs & Python · Building things that work beautifully
+**Software Engineer** · React & Next.js · Nodejs & Python · Building things that work beautifully
 
 </div>
 
