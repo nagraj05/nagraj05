@@ -55,6 +55,8 @@ I'm always up for interesting projects and conversations.
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=nagraj05)
 
+
+<img src="https://streak-stats.demolab.com?user=nagraj05&theme=default&hide_border=true" alt="nagraj05's GitHub Stats" />
 ---
 
 <div align="center">
