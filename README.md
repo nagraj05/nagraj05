@@ -52,6 +52,9 @@ I'm always up for interesting projects and conversations.
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=flat-square&logo=gmail)](mailto:ntadingi5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square)](https://tadingi.vercel.app)
 
+
+![GitHub Stats](https://ghstats.dev/api/card?username=nagraj05)
+
 ---
 
 <div align="center">
