@@ -31,6 +31,8 @@
 
 ## Projects
 
+### Web Apps 🌐
+
 - 📕 **[Fictioners](https://github.com/nagraj05/ebooks-website)** - You can download Ebooks and browse Authors.
 - 🎥 **[Cinewars](https://github.com/nagraj05/themoviesapp)** - Browse and get info about Movies, TV Shows & Celebrities.
 - 😎 **[Portfolio](https://tadingi.vercel.app/)** - Personal Portfolio.
@@ -40,10 +42,14 @@
 - 🎨 **[Shadcn Registry](https://github.com/nagraj05/shadcn-registry)** - A Collection of Third-party UI Components on the top of Shadcn Library.
 - 🚗 **[Rayagada Rentals](https://github.com/nagraj05/car-rental)** - UI of a Car Rental Web App.
 - ✒️ **[Bronte](https://github.com/nagraj05/poetry)** - A Collection of Poems.
-- 🪐 **[Neurogest](https://github.com/nagraj05/neurogest)** - Gesture-controlled web app. Draw in mid-air and explore the solar system using only your hands and a webcam.
-- 🤖 **[Deskbots](https://github.com/nagraj05/deskbots)** - Tiny animated creatures that live on your taskbar. Hover to freeze, click to launch your AI apps.
 - 📚 **[OTSI Librarian](https://github.com/nagraj05/otsi-librarian)** - A webapp to track borrowed books in my office.
 - 🥇 **[Nobel Prize](https://github.com/nagraj05/nobel-prize)** - An interactive archive of Nobel Prizes and the people and organisations behind them.
+
+### Desktop apps 💻
+- 🤖 **[Deskbots](https://github.com/nagraj05/deskbots)** - Tiny animated creatures that live on your taskbar. Hover to freeze, click to launch your AI apps.
+-  🪐 **[Neurogest](https://github.com/nagraj05/neurogest)** - Gesture-controlled web app. Draw in mid-air and explore the solar system using only your hands and a webcam.
+
+### Android Apps 📱
 - 📱 **[Post Planner](https://github.com/nagraj05/post-planner)** - An Android/iOS app to plan your Instagram posts offline.
 - 🔖 **[Bookmarks](https://github.com/nagraj05/bookmarks)** - An Android to save all the links from other apps.
 
