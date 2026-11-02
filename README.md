@@ -44,6 +44,7 @@
 - ✒️ **[Bronte](https://github.com/nagraj05/poetry)** - A Collection of Poems.
 - 📚 **[OTSI Librarian](https://github.com/nagraj05/otsi-librarian)** - A webapp to track borrowed books in my office.
 - 🥇 **[Nobel Prize](https://github.com/nagraj05/nobel-prize)** - An interactive archive of Nobel Prizes and the people and organisations behind them.
+- 🐦 **[Flock](https://github.com/nagraj05/flock)** - A colorful, neo-brutalist journey through all 11,064 living bird species.
 
 ### Desktop apps 💻
 - 🤖 **[Deskbots](https://github.com/nagraj05/deskbots)** - Tiny animated creatures that live on your taskbar. Hover to freeze, click to launch your AI apps.
